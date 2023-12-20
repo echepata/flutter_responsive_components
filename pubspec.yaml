@@ -5,7 +5,7 @@ publish_to: none
 homepage:
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
+  sdk: '>=3.2.3 <4.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,8 +14,8 @@ dependencies:
 
   fleetcutter_helpers:
     git:
-      url: git@bitbucket.org:fleetcutter/flutter-fleetcutter-helpers.git
-      ref: release/v5.1
+      url: git@github.com:echepata/flutter_misc_helpers.git
+      ref: release/v6.0
 
 dev_dependencies:
   flutter_test:
