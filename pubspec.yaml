@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  fleetcutter_helpers:
+  flutter_misc_helpers:
     git:
       url: git@github.com:echepata/flutter_misc_helpers.git
       ref: release/v6.0
